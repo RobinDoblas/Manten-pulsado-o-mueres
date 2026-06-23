@@ -1,0 +1,18 @@
+[gd_resource type="AudioBusLayout" load_steps=4 format=3 uid="uid://cyvb7vnsu7g7m"]
+
+[sub_resource type="AudioEffectReverb" id="AudioEffectReverb_lyb3q"]
+resource_name = "Reverb"
+
+[sub_resource type="AudioEffectDistortion" id="AudioEffectDistortion_hbmqj"]
+resource_name = "Distortion"
+
+[sub_resource type="AudioEffectFilter" id="AudioEffectFilter_6ehq4"]
+resource_name = "Filter"
+
+[resource]
+bus/0/effect/0/effect = SubResource("AudioEffectReverb_lyb3q")
+bus/0/effect/0/enabled = true
+bus/0/effect/1/effect = SubResource("AudioEffectDistortion_hbmqj")
+bus/0/effect/1/enabled = true
+bus/0/effect/2/effect = SubResource("AudioEffectFilter_6ehq4")
+bus/0/effect/2/enabled = true
