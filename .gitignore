@@ -1,0 +1,19 @@
+.godot/
+.import/
+export_presets.cfg
+
+# Exportaciones
+*.exe
+*.pck
+*.apk
+*.ipa
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local
+export_presets.cfg
+
+# Herramientas
+rcedit-x64.exe

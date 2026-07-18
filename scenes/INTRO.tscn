@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3 uid="uid://bqbq0puue3fb4"]
+
+[ext_resource type="Theme" uid="uid://dab63vu8vkolq" path="res://assets/themes/button.tres" id="1_tb4r6"]
+
+[node name="Label" type="Label"]
+offset_left = 128.0
+offset_top = 288.0
+offset_right = 728.0
+offset_bottom = 391.0
+theme = ExtResource("1_tb4r6")
+theme_override_font_sizes/font_size = 50
+text = "HAZ CLICK 
+PARA EMPEZAR"
+horizontal_alignment = 1

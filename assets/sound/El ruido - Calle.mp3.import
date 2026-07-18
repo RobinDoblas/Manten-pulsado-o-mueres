@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bnr2w383b46es"
+path="res://.godot/imported/El ruido - Calle.mp3-4520436bfb2005aacaa7eba8ec060d05.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/El ruido - Calle.mp3"
+dest_files=["res://.godot/imported/El ruido - Calle.mp3-4520436bfb2005aacaa7eba8ec060d05.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

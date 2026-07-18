@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d4djf66d0d3o7"
+path="res://.godot/imported/TRENES RENFE (SONIDO DIRECTO) (UHD 4K)..mp3-0ab395bc0b68b3066a7167290a04ccfb.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/TRENES RENFE (SONIDO DIRECTO) (UHD 4K)..mp3"
+dest_files=["res://.godot/imported/TRENES RENFE (SONIDO DIRECTO) (UHD 4K)..mp3-0ab395bc0b68b3066a7167290a04ccfb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

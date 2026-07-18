@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://c7g2ls6wgp4me"]
+
+[ext_resource type="Theme" uid="uid://dab63vu8vkolq" path="res://assets/themes/button.tres" id="1_mso3r"]
+[ext_resource type="Script" path="res://scripts/mensajes.gd" id="2_44k6b"]
+
+[node name="Label" type="Label"]
+modulate = Color(1, 1, 1, 0.462745)
+offset_left = 112.0
+offset_top = 240.0
+offset_right = 424.0
+offset_bottom = 260.0
+theme = ExtResource("1_mso3r")
+theme_override_font_sizes/font_size = 20
+text = "Agárrate bien"
+horizontal_alignment = 1
+script = ExtResource("2_44k6b")
